@@ -1,0 +1,4 @@
+name,number,stringList
+Test,15,[Hello, World]
+Test2,23,[Hello!, CWorld, Peace]
+null,11,null
